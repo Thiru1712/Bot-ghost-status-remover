@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Playing your Favourite Game","Competing in INDIAN Server"];
+const statusMessages = ["Playing         ","Competing in 𝐈𝐍𝐃𝐈𝐀𝐍 𝐬𝐞𝐫𝐯𝐞𝐫","Checking for 𝙣𝙚𝙬 𝙪𝙥𝙙𝙖𝙩𝙚𝙨"];
 
 
 let currentIndex = 0;
